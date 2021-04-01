@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850527814544",
+    "project_id": "detectives-app-722db",
+    "storage_bucket": "detectives-app-722db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850527814544:android:99e1841d1f58e1fc3c2915",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.DetectivesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850527814544-gkf9tuo2ovrp4bvjh1f3p3dp9c3srg0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9akq79B8zRAmXDR_gh47zIUc8b3t6eiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850527814544-gkf9tuo2ovrp4bvjh1f3p3dp9c3srg0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
